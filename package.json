@@ -13,7 +13,7 @@
     "chalk": "2.4.2"
   },
   "dependencies": {
-    "highlight.js": "^9.15.10",
+    "highlight.js": "^10.4.1",
     "history": "^4.10.1",
     "prop-types": "^15.7.2",
     "react": "16.10.2",
